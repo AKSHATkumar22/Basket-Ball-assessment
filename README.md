@@ -1,4 +1,8 @@
-# Basket-Ball-assessment
-Create a BasketballPlayerCard component that displays information about a basketball player.
-# First open the terminal and then go to the Basket-ball Assessment Directory and then run the comand npm run dev
-# Then the project will open and inside the code I have kept all the necessary comments to understand what I have used and what not.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

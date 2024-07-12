@@ -1,0 +1,68 @@
+body {
+  margin-top: 120px;
+  background: -webkit-linear-gradient(180deg, #ffbd00, #ff0054);
+}
+
+/* Basketball css design */
+.card {
+  padding-top: 5px;
+  margin: 0 auto;
+  width: 400px;
+  height: 500px;
+  background: #f8f7ff;
+  box-shadow: 0px 1px 10px 1px black;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.upper-container {
+  height: 100px;
+  background: linear-gradient(to left, #2d00f7, #ff0291);
+}
+
+/* image designs */
+.image-container img {
+  margin-bottom: 222px;
+  background: #fff;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  transform: translate(140px, -7px);
+}
+
+/* lower container */
+
+.lower-container {
+  margin-top: 60px;
+  height: 300px;
+  background: #fff;
+  text-align: center;
+  font-family: "Titillium web", sans-serif;
+}
+
+/* position design */
+.lower-container h3 {
+  font-size: 1.5rem;
+  color: #000;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+}
+
+/* name design */
+.lower-container h4 {
+  font-size: 1.1rem;
+  color: #000;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+
+/* paragraph design */
+.lower-container p {
+  font-size: 1.1rem;
+  color: #2f2d2e;
+  font-weight: 100;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: justify;
+  letter-spacing: 2px;
+}
